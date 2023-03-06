@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948462821886",
+    "project_id": "blossom-6c362",
+    "storage_bucket": "blossom-6c362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948462821886:android:0a5c66fbe21f60aae9a0af",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948462821886-lt6b8vb6mnjhukpk4smmvf9vu8mst8q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZgtr3X-TqeU7ehKzJypagSQB6yBpIKfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948462821886-lt6b8vb6mnjhukpk4smmvf9vu8mst8q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
